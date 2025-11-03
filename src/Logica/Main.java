@@ -3,5 +3,9 @@ package Logica;
 public class Main {
     public static void main(String[] args) {
         System.out.printf("Começo das aulas, bem vindo Marcos!!!");
+        System.out.print("teste?");
+        System.out.print("teste?");
+
+
     }
 }
